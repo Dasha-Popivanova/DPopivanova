@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.coverage
+.pytest_cache/
+.idea/workspace.xml
+data/
+test_data/
